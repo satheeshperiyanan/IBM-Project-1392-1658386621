@@ -13,3 +13,9 @@ Admin : The main role and responsibility of the admin are to take care of the wh
 
 
 User: They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
+
+
+EMPATHY MAP CANVAS :
+      An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.
+
+LINK URL : https://app.mural.co/invitation/mural/ibmproject3853/1661782106263?sender=uf6154e2fa369d50ca4ac2452&key=0501b2c7-7c15-4f00-b394-c5536ca36956

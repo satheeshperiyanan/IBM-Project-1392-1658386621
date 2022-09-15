@@ -18,15 +18,17 @@ This Application has been developed to help the customer in processing their com
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
-
+- RAJKIRAN S S
 - KAMALESUWARAN D   
 - SRIGOVINDH S
 - GURURAJAN M
 
 ## 🔗 LINKS
-- KAMALESUWARAN D   [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Task/KAMALESUWARAN_D) 
-- SRIGOVINDH S      [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Task/SRIGOVINDH_S)
-- GURURAJAN M       [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Task/GURURAJAN_M)
+- RAJKIRAN S S      [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/Team_Lead)
+- KAMALESUWARAN D   [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/M1_Lead) 
+- SRIGOVINDH S      [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/M2_Lead)
+- GURURAJAN M       [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/M3_Lead)
+
 
 
 
@@ -34,4 +36,4 @@ This Application has been developed to help the customer in processing their com
       An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.
 
 
-[EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/blob/main/Project_Workflow/EMPATHY%20MAP%20FOR%20THE%20PROJECT/Empathy%20Map.pdf)
+[EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/blob/main/Pre-Development/Ideation_Phase/Empathy_Map)

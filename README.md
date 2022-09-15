@@ -1,3 +1,6 @@
+<h1 align="fill" >
+ <img src="CUSTOMER.png" />
+</h1>
 
 # 🛃 CUSTOMER CARE REGISTRY
 

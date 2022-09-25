@@ -36,13 +36,17 @@ This Application has been developed to help the customer in processing their com
 # 🧩 IDEATION PHASE
 
       Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
-
+- [x] Literature Survey
+- [x] Problem Statement
+- [x] Empathy Map
+- [x] Brainstorm
+- [x] Top 3 Ideas
 - Ideation Phase
-      - [x] Literature Survey [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Literature_Survey)
-      - [x] Problem Statement [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Problem_Statement)
-      - [x] Empathy Map [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Empathy_Map)
-      - [x] Brainstorm [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Ideation)
-      - [X] Abstract & Introduction [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Abstract%26Introduction)
+      - Literature Survey [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Literature_Survey)
+      - Problem Statement [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Problem_Statement)
+      - Empathy Map [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Empathy_Map)
+      - Brainstorm [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Ideation)
+      - Abstract & Introduction [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Abstract%26Introduction)
    
 
 

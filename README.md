@@ -17,6 +17,8 @@ This Application has been developed to help the customer in processing their com
  USER :
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
 
+ ## PROJECT STATUS - PROTOTYPE
+
 ## 🧑🏻‍🦰 TEAM MEMBERS
 - RAJKIRAN S S
 - KAMALESUWARAN D   
@@ -24,12 +26,24 @@ This Application has been developed to help the customer in processing their com
 - GURURAJAN M
 
 ## 🔗 LINKS
-- RAJKIRAN S S      [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/Team_Lead)
-- KAMALESUWARAN D   [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/M1_Lead) 
-- SRIGOVINDH S      [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/M2_Lead)
-- GURURAJAN M       [TASK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assessments/M3_Lead)
+- RAJKIRAN S S      [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/Team_Lead) 
+- KAMALESUWARAN D   [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M1_Lead) 
+- SRIGOVINDH S      [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M2_Lead)
+- GURURAJAN M       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M3_Lead)
 
 
+## PROJECT DESIGN & PLANNING
+# 🧩 IDEATION PHASE
+
+      Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+
+- Ideation Phase
+      - [x] Literature Survey [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Literature_Survey)
+      - [x] Problem Statement [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Problem_Statement)
+      - [x] Empathy Map [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Empathy_Map)
+      - [x] Brainstorm [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Ideation)
+      - [X] Abstract & Introduction [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Abstract%26Introduction)
+   
 
 
 # EMPATHY MAP CANVAS :

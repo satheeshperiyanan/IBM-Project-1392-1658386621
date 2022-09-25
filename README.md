@@ -41,13 +41,6 @@ This Application has been developed to help the customer in processing their com
 - [x] Empathy Map
 - [x] Brainstorm
 - [x] Top 3 Ideas
-- Ideation Phase
-      - Literature Survey [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Literature_Survey)
-      - Problem Statement [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Problem_Statement)
-      - Empathy Map [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Empathy_Map)
-      - Brainstorm [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Ideation)
-      - Abstract & Introduction [LINK](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Abstract%26Introduction)
-   
 
 
 # EMPATHY MAP CANVAS :

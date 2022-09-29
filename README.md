@@ -42,6 +42,11 @@ This Application has been developed to help the customer in processing their com
 - [x] Brainstorm
 - [x] Top 3 Ideas
 
+# 🧩 Design_Phase_01
+
+      In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+- [x] Proposed Solution
+
 
 # EMPATHY MAP CANVAS :
       An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.

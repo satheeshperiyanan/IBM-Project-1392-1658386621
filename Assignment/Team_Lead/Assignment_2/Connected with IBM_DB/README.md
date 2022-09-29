@@ -10,7 +10,8 @@ Working with IBM Db2 service
 
 --- ADD IT IN YOUR PYTHON APP ---
 > import ibm_db
-> conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=<HOSTNAME>;PORT=<PORTNUMBER>;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=<USERNAME>;PWD=<PASSWORD>",'','')
+> conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=<HOSTNAME>;PORT=<PORTNUMBER>;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;
+> UID=<USERNAME>;PWD=<PASSWORD>",'','')
 > print(conn)
 > print("connection successful...")
 

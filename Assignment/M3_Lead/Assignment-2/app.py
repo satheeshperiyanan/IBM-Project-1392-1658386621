@@ -2,7 +2,7 @@ from turtle import st
 from flask import Flask, render_template, request, redirect, url_for, session
 import ibm_db
 from markupsafe import escape
-from flask import *  
+from flask import flask  
 
 
 conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=<HOSTNAME>;PORT=<PORT NUMBER>;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=<USERNAME>;PWD=<PASSWORD>",'','')

@@ -1,15 +1,16 @@
-from flask import Flask, render_template, flash,request, redirect,url_for, session
-import sqlite3 
+from turtle import st
+from flask import Flask, render_template, request, redirect, url_for, session
+import ibm_db
+from markupsafe import escape
+from flask import *  
 
 
-
+conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=<HOSTNAME>;PORT=<PORT NUMBER>;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=<USERNAME>;PWD=<PASSWORD>",'','')
+print(conn)
+print("connection successful...")
 
 app = Flask(__name__)
 app.secret_key="123"
-
-con=sqlite3.connect("database.db")
-con.execute("create table if not exists users(pid integer primary key,cname TEXT, cemail TEXT, cpassword TEXT, cconfirmpassword TEXT)")
-con.close()
 
 @app.route('/')
 def index():
@@ -28,21 +29,20 @@ def about():
 @app.route('/customerlogin',methods=["GET","POST"])
 def customerlogin():
    if request.method=='POST':
-        cemail=request.form['cemail']
-        cpassword=request.form['cpassword']
-        con=sqlite3.connect("database.db")
-        con.row_factory=sqlite3.Row
-        cur=con.cursor()
-        cur.execute("select * from users where cemail=? and cpassword=?",(cemail,cpassword))
-        data=cur.fetchone()
+      cemail=request.form['cemail']
+      cpassword=request.form['cpassword']
 
-        if data:
-            session["cemail"]=data["cemail"]
-            session["cpassword"]=data["cpassword"]
-            return redirect("profile")
-        else:
-            flash("Username and Password Mismatch","danger")
-            return redirect(url_for("index"))
+      sql =f"select * from users where cemail='{escape(cemail)}' and cpassword='{escape(cpassword)}'"
+      stmt = ibm_db.exec_immediate(conn, sql)
+      data = ibm_db.fetch_both(stmt)
+
+      if data:
+         session["cemail"]=escape(cemail)
+         session["cpassword"]=escape(cpassword)
+         return redirect("profile")
+      else:
+         flash("Username and Password Mismatch","danger")
+         return redirect(url_for("index"))
    return render_template('customerlogin.html')
 
 @app.route('/customerregister',methods = ['POST', 'GET'])
@@ -53,14 +53,18 @@ def customerregister():
          cemail = request.form['cemail']
          cpassword = request.form['cpassword']
          cconfirmpassword = request.form['cconfirmpassword']
-         con=sqlite3.connect("database.db")
-         cur = con.cursor()
-         cur.execute("INSERT INTO users (cname,cemail,cpassword,cconfirmpassword) VALUES (?,?,?,?)",(cname,cemail,cpassword,cconfirmpassword))
-         con.commit()
+
+      
+         insert_sql ="INSERT INTO users(cname,cemail,cpassword,cconfirmpassword)VALUES(?,?,?,?)"
+         prep_stmt = ibm_db.prepare(conn,insert_sql)
+         ibm_db.bind_param(prep_stmt,1,cname)
+         ibm_db.bind_param(prep_stmt,2,cemail)
+         ibm_db.bind_param(prep_stmt,3,cpassword)
+         ibm_db.bind_param(prep_stmt,4,cconfirmpassword)
+         ibm_db.execute(prep_stmt)
          flash("Register successfully","success")        
       except:
          flash("Error","danger")
-      
       finally:
          return redirect(url_for("index"))
          con.close()

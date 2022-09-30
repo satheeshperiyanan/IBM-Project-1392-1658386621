@@ -17,6 +17,13 @@
             <form action="/signup" method="post" autocomplete="off">
 
                 <h3 class="page-header text-primary">SIGN UP</h3>
+                {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                {% for category,message in messages %}
+                <div class="alert alert-{{category}}">{{message}}</div>
+                {% endfor %}
+                {% endif %}
+                {% endwith %}
                 <div class="form-group">
                     <label>Name</label>
                     <input type="text" name="name" placeholder="Enter your Name" class="form-control" required>
@@ -50,6 +57,12 @@
         </div>
 
     </div>
+    <script>
+        $(document).ready(function () {
+            $(".alert").hide(5000)
+        });
+    </script>
+
 </body>
 
 </html>

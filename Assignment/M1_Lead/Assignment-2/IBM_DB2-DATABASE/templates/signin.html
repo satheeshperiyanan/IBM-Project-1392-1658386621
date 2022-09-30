@@ -26,15 +26,17 @@
                 {% endwith %}
                 <div class="form-group">
                     <label>Email</label>
-                    <input type="email" name="email" class="form-control" required>
+                    <input type="email" name="email" placeholder="Enter your Email" class="form-control" required>
                 </div>
                 <div class="form-group">
                     <label>Password</label>
-                    <input type="password" name="password" class="form-control" required>
+                    <input type="password" name="password" placeholder="Enter your Password"class="form-control" required>
                 </div>
                 <div class="btn">
                     <input type="submit" value="Signin" class="btn btn-success">
                 </div>
+                <p class="bottom text-center mt-3">Didn't have an account? <a class="bottom"
+                    href="{{url_for('signup')}}">Signup here</a>
 
             </form>
         </div>

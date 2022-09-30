@@ -39,7 +39,7 @@ def signin():
             return redirect(url_for("profile"))
         else:
             flash("Username and Password Mismatch","danger")
-            return redirect(url_for("home"))
+            return redirect(url_for("signin"))
    return render_template('signin.html')
 
 @app.route('/signup',methods = ['POST', 'GET'])
@@ -57,15 +57,15 @@ def signup():
             cur.execute("INSERT INTO users (name,email,contact,password) VALUES (?,?,?,?)",(name,email,contact,password))
             con.commit()
             flash("Register successfully","success")   
+            return redirect(url_for("signin"))
          else:
-            flash("Password Mismatch","danger")  
+            flash("Password Mismatch","danger")
+            return redirect(url_for("signup"))
       except:
          flash("Error","danger")
       
-      finally:
-         return redirect(url_for("signin"))
-         con.close()
-   return render_template('signup.html')
+   return render_template("signup.html")
+
 
 @app.route('/logout')
 def logout():

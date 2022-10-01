@@ -47,6 +47,7 @@ This Application has been developed to help the customer in processing their com
       In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
 - [x] Proposed Solution
 - [x] Problem-Solution Fit
+- [x] Solution Architecture
 
 
 # EMPATHY MAP CANVAS :

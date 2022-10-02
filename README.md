@@ -7,6 +7,8 @@
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
 - TEAM ID    : PNT2022TMID37544
 
+<hr>
+
 # 📒 PROJECT DESCRIPTION
 
 This Application has been developed to help the customer in processing their complaints.  The customers can raise the ticket with a detailed description of the issue.  An Agent will be assigned to the Customer to solve the problem.  Whenever the agent is assigned to a customer they will be notified with an email alert.  Customers can view the status of the ticket till the service is provided.
@@ -17,7 +19,11 @@ This Application has been developed to help the customer in processing their com
  USER :
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
 
+ <hr>
+
  ## PROJECT STATUS - PROTOTYPE
+
+ <hr>
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
 - RAJKIRAN S S
@@ -25,12 +31,15 @@ This Application has been developed to help the customer in processing their com
 - SRIGOVINDH S
 - GURURAJAN M
 
+<hr>
+
 ## 🔗 LINKS
 - RAJKIRAN S S      [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/Team_Lead) 
 - KAMALESUWARAN D   [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M1_Lead) 
 - SRIGOVINDH S      [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M2_Lead)
 - GURURAJAN M       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M3_Lead)
 
+<hr>
 
 ## PROJECT DESIGN & PLANNING
 # 🧩 IDEATION PHASE
@@ -50,8 +59,4 @@ This Application has been developed to help the customer in processing their com
 - [x] Solution Architecture
 
 
-# EMPATHY MAP CANVAS :
-      An empathy map is a visual tool used to gain insight into a user's perspective. Using one allows you to tap into a user's mind and gain their unique perspective. Empathy maps are great in all scenarios where you have to consider user feelings.
-
-
-[EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/blob/main/Pre-Development/Ideation_Phase/Empathy_Map)
+<hr>

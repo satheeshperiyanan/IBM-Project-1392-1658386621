@@ -1,11 +1,16 @@
+<hr>
+
 <h1 align="fill" >
  <img src="CUSTOMER.png" />
 </h1>
+
+<hr>
 
 # 🛃 CUSTOMER CARE REGISTRY
 
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
 - TEAM ID    : PNT2022TMID37544
+- BATCH NO   : B1-1M3E
 
 <hr>
 
@@ -51,12 +56,25 @@ This Application has been developed to help the customer in processing their com
 - [x] Brainstorm
 - [x] Top 3 Ideas
 
-# 🧩 Design_Phase_01
-
+# 🧩 DESIGN PHASE 
       In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+
+# DESIGN PHASE 01 ⚒️
 - [x] Proposed Solution
 - [x] Problem-Solution Fit
 - [x] Solution Architecture
 
+# DESIGN PHASE 02 ⚒️
+- Requirement Analysis
+- Customer Journey
+- Data Flow Diagram
+- Technology Architecture
+
+
+<hr>
+
+<div align="center">
+ <h5> 
+  | JEPPIAAR SRR ENGINEERING COLLEGE |</h5>
 
 <hr>

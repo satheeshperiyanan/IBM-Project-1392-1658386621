@@ -1,16 +1,22 @@
 
 ## BATCH - B1-1M3E
 
+<hr>
+
 ## TEAM MEMBERS 🧑‍🤝‍🧑
 > TEAM LEAD - RAJKIRAN S S <br>
 > M1_LEAD   - KAMALESUWARAN-D <br>
 > M2_LEAD   - SRIGOVINDH <br>
 > M3_LEAD   - GURURAJAN <br>
 
+<hr>
+
 ## ASSIGNMENT FINISHED
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
-- [x] ASSIGNMENT 3 (TEAM LEAD)
+- [x] ASSIGNMENT 3 (TEAM LEAD & MEMBER_02)
+
+<hr>
 
 # ASSIGNMENT INFORMATIONS 📃📃
 
@@ -33,3 +39,5 @@ and contact form.
 > 3.Upload a css page to the object storage and use the same page in your HTML code. <br>
 > 4.Design a chatbot using IBM Watson assistant for hospital. Ex: User comes with query to know the branches for that hospital in your city. Submit the web URL of that chat bot as a assignment. <br>
 > 5.Create Watson assistant service with 10 steps and use 3 conditions in it. Load that script in HTML page. <br>
+
+<hr>

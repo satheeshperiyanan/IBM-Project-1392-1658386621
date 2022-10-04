@@ -26,7 +26,7 @@ This Application has been developed to help the customer in processing their com
 
  <hr>
 
- ## PROJECT STATUS - PROTOTYPE
+ ## PROJECT STATUS - DEVELOPMENT STAGE
 
  <hr>
 
@@ -35,6 +35,13 @@ This Application has been developed to help the customer in processing their com
 - KAMALESUWARAN D   
 - SRIGOVINDH S
 - GURURAJAN M
+
+<hr>
+
+## ASSIGNMENT FINISHED
+- [x] ASSIGNMENT 1
+- [x] ASSIGNMENT 2
+- [x] ASSIGNMENT 3 
 
 <hr>
 
@@ -74,7 +81,6 @@ This Application has been developed to help the customer in processing their com
 <hr>
 
 <div align="center">
- <h5> 
-  | JEPPIAAR SRR ENGINEERING COLLEGE |</h5>
+ <h5> | JEPPIAAR SRR ENGINEERING COLLEGE |</h5>
 
 <hr>

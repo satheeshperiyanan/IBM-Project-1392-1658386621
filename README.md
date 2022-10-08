@@ -73,7 +73,7 @@ This Application has been developed to help the customer in processing their com
 
 # DESIGN PHASE 02 ⚒️
 - Requirement Analysis
-- Customer Journey
+- [x] Customer Journey
 - Data Flow Diagram
 - Technology Architecture
 

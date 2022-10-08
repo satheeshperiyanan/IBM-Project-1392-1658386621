@@ -17,3 +17,7 @@
 > - [x] Problem Solution Fit
 >
 > - [X] Solution Architecture
+
+# DESIGN PHASE 02
+
+> - [x] Customer Journey Map 

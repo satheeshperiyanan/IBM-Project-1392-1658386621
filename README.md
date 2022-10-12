@@ -75,11 +75,8 @@ This Application has been developed to help the customer in processing their com
 - [x] Solution Architecture
 
 # DESIGN PHASE 02 ⚒️
-- Requirement Analysis
+- [x] Solution Requirements
 - [x] Customer Journey
-- Data Flow Diagram
-- Technology Architecture
-
 
 <hr>
 

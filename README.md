@@ -25,6 +25,13 @@ This Application has been developed to help the customer in processing their com
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
 
  <hr>
+ 
+# 👨🏻‍💻 SOFTWARE REQUIRED
+- PYTHON
+- FLASK
+- DOCKER
+
+ <hr>
 
  ## PROJECT STATUS - DEVELOPMENT STAGE
 
@@ -38,7 +45,7 @@ This Application has been developed to help the customer in processing their com
 
 <hr>
 
-## ASSIGNMENT FINISHED
+## 📒 ASSIGNMENT FINISHED
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
@@ -76,11 +83,14 @@ This Application has been developed to help the customer in processing their com
 
 # DESIGN PHASE 02 ⚒️
 - [x] Solution Requirements
-- [x] Customer Journey
+- [x] Customer Journey Map
+- [x] Data Flow Dailgrams
+- [x] Technology Stack
+
 
 <hr>
 
 <div align="center">
- <h5> | JEPPIAAR SRR ENGINEERING COLLEGE |</h5>
+ <h5> | CUSTOMER CARE REGISTRY |</h5>
 
 <hr>

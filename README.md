@@ -35,7 +35,17 @@ This Application has been developed to help the customer in processing their com
 
  ## PROJECT STATUS - DEVELOPMENT STAGE
 
- <hr>
+<hr>
+
+## 🈸 SKILLS REQUIRED
+|    |   |   |
+| :---:         |     :---:      |          :---: | 
+| IBM CLOUD   | HTML     | CSS    | JAVASCRIPT | 
+| PYTHON - FLASK    | KUBERNETES      | DOCKER    |
+| IBM CONTAINER REGISTRY | IBM CLOUD OBJECT | IBM DB2 |
+| | | |
+
+<hr>
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
 - RAJKIRAN S S
@@ -49,7 +59,6 @@ This Application has been developed to help the customer in processing their com
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
-
 <hr>
 
 ## 🔗 LINKS
@@ -57,7 +66,7 @@ This Application has been developed to help the customer in processing their com
 | TEAM MEMBERS | FOLDER LINK    |
 | ------------- | ------------- |
 | RAJKIRAN S S  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/Team_Lead">CLICK HERE!  </a></button>                 
-| KAMALESUWARAN D  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M1_Lead">CLICK HERE!  </a> </button> |
+| KAMALESUWARAN D | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M1_Lead">CLICK HERE!  </a> </button> |
 | SRIGOVINDH S     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M2_Lead">CLICK HERE!  </a> </button> |
 | GURURAJAN M     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M3_Lead">CLICK HERE!  </a> </button> |
 
@@ -84,13 +93,13 @@ This Application has been developed to help the customer in processing their com
 # DESIGN PHASE 02 ⚒️
 - [x] Solution Requirements
 - [x] Customer Journey Map
-- [x] Data Flow Dailgrams
+- [x] Data Flow Diagrams
 - [x] Technology Stack
 
 
 <hr>
 
 <div align="center">
- <h5> | CUSTOMER CARE REGISTRY |</h5>
+ <h5> | `CUSTOMER CARE REGISTRY` |</h5>
 
 <hr>

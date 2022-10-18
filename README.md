@@ -99,6 +99,9 @@ This Application has been developed to help the customer in processing their com
 
 <hr>
 
+📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>
+
+<hr>
 <div align="center">
  <h5> | `CUSTOMER CARE REGISTRY` |</h5>
 

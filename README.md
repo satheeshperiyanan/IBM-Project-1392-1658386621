@@ -1,20 +1,93 @@
-<hr>
-
+<br>
+<div align="center">
 <h1 align="fill" >
- <img src="CUSTOMER.png" />
+<img src="image (1).png" />
 </h1>
 
+
+[![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-1392-1658386621)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/graphs/contributors)
+[![](https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-1392-1658386621)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/network/members)
+[![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-1392-1658386621)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/stargazers)
+[![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-1392-1658386621)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/issues)
+<br /> 
+
+<!-- PROJECT LOGO -->
+
+<p align="center">
+  <a href="https://github.com/ssrajkiran/Customer-Care-Registor-Pre_developement-">
+    <img src="logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center" size=20px>CUSTOMER CARE REGISTRY</h3>
+
+  <p align="center">
+    TECHNOLOGY : CLOUD APP DEVELOPMENT <br />
+    TEAM ID    : PNT2022TMID37544 <br />
+    BATCH NO   : B1-1M3E <br />  
+  </p>
+</p>
 <hr>
+</div>
 
-# 🛃 CUSTOMER CARE REGISTRY
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>TABLE OF CONTENTS</summary>
+  <ol>
+    <li>
+      <a href="#-project-description">PROJECT DESCRIPTION</a>
+    </li>
+    <li>
+      <a href="#-software-required">SOFTWARE REQUIRED</a>
+    </li>
+    <li><a href="#-skills-required">SKILLS REQUIRED</a></li>
+    <li><a href="#-TEAM-MEMBERS">TEAM MEMBERS</a></li>
+    <li><a href="#-ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
+     <ul>
+        <li><a href="#-LINKS">LINKS</a></li>
+        </ul>
+    <li><a href="#-PROJECT-DESIGN-&-PLANNING">PROJECT DESIGN & PLANNING</a></li>
+     <ul>
+        <li><a href="#-IDEATION-PHASE">IDEATION PHASE</a></li>
+           <ul>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Literature_Survey">LITERATURE SURVEY</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Problem_Statement">PROBLEM STATEMENT</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Empathy_Map">EMPATHY MAP</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Brainstorm%20%26%20Ideation">BRAINSTORM</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Brainstorm%20%26%20Ideation">3 IDEAS</a></li>
+          </ul>
+        <li><a href="#-DESIGN-PHASE-PHASE">DESIGN PHASE</a></li>
+        <ul>
+        <li><a href="#-DESIGN-PHASE-01">DESIGN PHASE 01</a></li>
+           <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_01/Architecture">ARCHITECTURE</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_01/Problem%20Solution%20fit">PROBLEM SOLUTION FIT</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_01/Proposed%20Solution">PROPOSED SOLUTION</a></li>
+        </ul>
+        <li><a href="#design-phase-02">DESIGN PHASE 02</a></li>
+           <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Customer%20Journey">CUSTOMER JOURNEY</a></li>
+           <ul>
+              <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Data%20Flow%20Dailgrams">DATA FLOW DIAGRAM</a></li>
+           <ul>
+              <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Solution%20Requirements">SOLUTION REQUIREMENTS</a></li>
+           <ul>
+              <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Technology%20Stack">TECHNOLOGY STACK</a></li>
+           <ul>
+        </ul>
+        </ul>
+  </ol>
+</details>
 
-- TECHNOLOGY : CLOUD APP DEVELOPMENT
-- TEAM ID    : PNT2022TMID37544
-- BATCH NO   : B1-1M3E
+<!-- Description -->
 
-<hr>
-
-# 📒 PROJECT DESCRIPTION
+# 📝 PROJECT DESCRIPTION
 
 This Application has been developed to help the customer in processing their complaints.  The customers can raise the ticket with a detailed description of the issue.  An Agent will be assigned to the Customer to solve the problem.  Whenever the agent is assigned to a customer they will be notified with an email alert.  Customers can view the status of the ticket till the service is provided.
 
@@ -23,17 +96,12 @@ This Application has been developed to help the customer in processing their com
 
  USER :
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
+<hr>
 
- <hr>
- 
-# 👨🏻‍💻 SOFTWARE REQUIRED
-- PYTHON
-- FLASK
-- DOCKER
-
- <hr>
-
- ## PROJECT STATUS - DEVELOPMENT STAGE
+# 👨🏻‍💻 SOFTWARE REQUIRED <br />
+- PYTHON<br />
+- FLASK<br />
+- DOCKER<br />
 
 <hr>
 
@@ -44,6 +112,7 @@ This Application has been developed to help the customer in processing their com
 | PYTHON - FLASK    | KUBERNETES      | DOCKER    |
 | IBM CONTAINER REGISTRY | IBM CLOUD OBJECT | IBM DB2 |
 | | | |
+
 
 <hr>
 
@@ -96,9 +165,7 @@ This Application has been developed to help the customer in processing their com
 - [x] Data Flow Diagrams
 - [x] Technology Stack
 
-
 <hr>
-
 📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>
 
 <hr>
@@ -106,3 +173,4 @@ This Application has been developed to help the customer in processing their com
  <h5> | `CUSTOMER CARE REGISTRY` |</h5>
 
 <hr>
+                   

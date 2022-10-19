@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 <h1 align="fill" >
-<img src="image (1).png" />
+<img src="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/blob/main/Images_content/CUSTOMER.png" />
 </h1>
 
 
@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  <a href="https://github.com/ssrajkiran/Customer-Care-Registor-Pre_developement-">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621">
+    <img src="/Images_content/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center" size=20px>CUSTOMER CARE REGISTRY</h3>

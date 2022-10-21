@@ -128,6 +128,7 @@ This Application has been developed to help the customer in processing their com
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
+- [x] ASSIGNMENT 4
 <hr>
 
 ## 🔗 LINKS
@@ -151,7 +152,7 @@ This Application has been developed to help the customer in processing their com
 - [x] Brainstorm
 - [x] Top 3 Ideas
 
-# 🧩 DESIGN PHASE 
+# 📝 DESIGN PHASE 
       In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
 
 # DESIGN PHASE 01 ⚒️
@@ -164,6 +165,9 @@ This Application has been developed to help the customer in processing their com
 - [x] Customer Journey Map
 - [x] Data Flow Diagrams
 - [x] Technology Stack
+
+# PLANNING PHASE
+- [x] Sprint Planning
 
 <hr>
 📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>

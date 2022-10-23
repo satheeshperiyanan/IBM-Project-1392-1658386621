@@ -1,4 +1,4 @@
-# KAMALESUWARAN D ASSIGNMENT
+# KAMALESUWARAN D ASSIGNMENTS
 
 ## ASSIGNMENT 1 : 🎯
     Resume Page by using HTML,CSS,BootStrap.
@@ -8,3 +8,7 @@
 
 ## ASSIGNMENT 3 : 🎯
     Working with Cloud Storage and Create Watson Assistant service
+
+## ASSIGNMENT 04 :🎯
+    Working with Docker and Kubernetes 
+    Deploy as Nodeport

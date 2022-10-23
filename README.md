@@ -82,6 +82,11 @@
            <ul>
         </ul>
         </ul>
+        <li><a href="#-PLANNING-PHASE">PLANNING PHASE</a></li>
+        <ul>
+            <li><a href="#-PLANNING-PHASE">MILESTONE & ACTIVITY LIST</a></li>
+            <li><a href="#-PLANNING-PHASE">SPRINT DELIVERY PLAN</a></li>
+        </ul>
   </ol>
 </details>
 
@@ -167,7 +172,8 @@ This Application has been developed to help the customer in processing their com
 - [x] Technology Stack
 
 # PLANNING PHASE
-- [x] Project Planning
+- [x] Milestone and Activity List
+- [x] Sprint Delivery plan
 
 
 

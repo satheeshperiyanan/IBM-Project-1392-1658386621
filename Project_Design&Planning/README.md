@@ -34,4 +34,6 @@
 
 # PLANNING PHASE
 
-> - [x]Project Planning
+> - [x] Sprint Delivery & planning
+>
+> - [x] Milestone and Activity List

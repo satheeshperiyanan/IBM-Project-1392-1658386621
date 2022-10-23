@@ -31,3 +31,7 @@
 > - [x] Data flow diagram
 >
 > - [x] Technology Stack
+
+# PLANNING PHASE
+
+> - [x]Project Planning

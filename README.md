@@ -167,7 +167,17 @@ This Application has been developed to help the customer in processing their com
 - [x] Technology Stack
 
 # PLANNING PHASE
-- [x] Sprint Planning
+- [x] Project Planning
+
+
+
+<hr>
+# 🖇️ GITHUB LINK 
+
+[RAJKIRAN S S](https://github.com/ssrajkiran)
+[GURURAJAN](https://github.com/gururajan321)
+[KAMALESUWARAN D](https://github.com/KAMALESUWARAN-D)
+[SRIGOVINDH S](https://github.com/srigovindh)
 
 <hr>
 📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>

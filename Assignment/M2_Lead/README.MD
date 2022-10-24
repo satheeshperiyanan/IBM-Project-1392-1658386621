@@ -8,3 +8,6 @@
 
 ## ASSIGNMENT 3 : 🎯
     It's all about working with Cloud Storage and Watson AI Assistant
+
+## ASSIGNMENT 4 : 🎯
+    It's all about working with DOcker and Kubernetes and deploy in a Nodeport

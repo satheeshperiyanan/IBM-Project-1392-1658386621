@@ -9,6 +9,6 @@
 ## ASSIGNMENT 3 : 🎯
     Working with Cloud Storage and Create Watson Assistant service
 
-## ASSIGNMENT 04 :🎯
+## ASSIGNMENT 4 : 🎯
     Working with Docker and Kubernetes 
     Deploy as Nodeport

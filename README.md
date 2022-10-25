@@ -27,9 +27,13 @@
   </p>
 </p>
 <hr>
-[PHASE 01](http://169.51.204.215:32017/)
-<hr>
 </div>
+<hr>
+
+
+[PHASE 01 COMPLETION](http://169.51.204.215:32017/)
+
+<hr>
 
 <!-- TABLE OF CONTENTS -->
 <details>
